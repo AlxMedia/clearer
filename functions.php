@@ -40,7 +40,7 @@ add_action( 'after_setup_theme', 'clearer_load' );
 /* ------------------------------------------------------------------------- */
 	
 	// Content width
-	if ( !isset( $content_width ) ) { $content_width = 590; }
+	if ( !isset( $content_width ) ) { $content_width = 774; }
 
 
 /*  Theme setup
@@ -73,13 +73,12 @@ if ( ! function_exists( 'clearer_setup' ) ) {
 		remove_theme_support( 'widgets-block-editor' );
 		
 		// Thumbnail sizes
-		add_image_size( 'clearer-small', 150, 150, true );
-		add_image_size( 'clearer-medium', 300, 300, true );
-		add_image_size( 'clearer-large', 640, 360, true );
+		add_image_size( 'clearer-medium', 520, 293, true );
+		add_image_size( 'clearer-large', 800, 450, true );
 		add_image_size( 'clearer-huge', 1200, 675, true );
 		
 		// Thumbnail sizes custom widgets
-		add_image_size( 'alx-small', 200, 200, true );
+		add_image_size( 'alx-small', 150, 150, true );
 		add_image_size( 'alx-medium', 520, 293, true );
 
 		// Custom menu areas
