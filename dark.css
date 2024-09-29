@@ -1,0 +1,206 @@
+/* base */
+body:where(.dark) { background: #1a1a1a; }
+body:where(.dark) #header { background: #2a2a2a; box-shadow: none; }
+body:where(.dark) #subheader { border-bottom-color: rgba(255,255,255,0.1); }
+
+body:where(.dark) .stickywrap .stickywrap-inner { background: #2a2a2a; box-shadow: none; }
+body:where(.dark) .stickywrap .stickywrap-heading { color: #fff; }
+body:where(.dark) .stickywrap .stickywrap-heading:after { background: rgba(255,255,255,0.1); }
+body:where(.dark) .stickywrap .stickywrap-heading a {  }
+
+body:where(.dark.invert-dark-logo) .site-title a img,
+body:where(.dark.invert-dark-logo) .site-title a svg,
+body:where(.dark.invert-dark-logo) #footer-logo { filter: invert(1); }
+
+body:where(.dark) { color: rgba(255,255,255,0.6); }
+body:where(.dark) a,
+body:where(.dark) .site-title a,
+body:where(.dark) h1, 
+body:where(.dark) h2,
+body:where(.dark) h3,
+body:where(.dark) h4, 
+body:where(.dark) h5, 
+body:where(.dark) h6 { color: #fff; }
+body:where(.dark) a:hover { }
+
+body:where(.dark) .entry { color: rgba(255,255,255,0.85); }
+
+body:where(.dark) .commentlist .fn { color: #fff; }
+body:where(.dark) .commentlist .comment-metadata:before { color: rgba(255,255,255,0.4); } 
+body:where(.dark) .commentlist .comment-metadata a { color: rgba(255,255,255,0.4); }
+body:where(.dark) .comment-awaiting-moderation { color: #fff; }
+body:where(.dark) .commentlist li.bypostauthor > .comment-body:after,
+body:where(.dark) .commentlist li.comment-author-admin > .comment-body:after { background: #fff; color: #444; }
+
+body:where(.dark) .post-nav li i { color: rgba(255,255,255,0.4);  }
+body:where(.dark) .post-nav li a strong { color: rgba(255,255,255,0.5); }
+body:where(.dark) .post-nav li a:hover i { color: rgba(255,255,255,0.4); }
+body:where(.dark) .post-nav { border-bottom-color: rgba(255,255,255,0.06); background-color: rgba(255,255,255,0.1); box-shadow: inset 0 1px 0 rgba(255,255,255,0.06); -webkit-backdrop-filter: blur(20px); backdrop-filter: blur(20px); }
+body:where(.dark) .sidebar .post-nav li a { background: #2a2a2a; box-shadow: none; }
+
+body:where(.dark) .themeform input[type="submit"] { background: #fff; color: #444; }
+body:where(.dark) .themeform input:not([type="submit"]):not([type="checkbox"]), 
+body:where(.dark) .themeform textarea { background: #1a1a1a; color: rgba(255,255,255,0.5); box-shadow: none; }
+body:where(.dark) .themeform textarea:focus, 
+body:where(.dark) .themeform input:not([type="submit"]):focus { outline: 1px solid rgba(255,255,255,0.1); color: rgba(255,255,255,0.75); }
+body:where(.dark) .themeform.searchform div input:not([type="submit"]):not([type="checkbox"]) { background: #2a2a2a; box-shadow: none; }
+body:where(.dark) .themeform.searchform div:after { color: rgba(255,255,255,0.4); }
+body:where(.dark) .themeform.searchform div textarea:focus, 
+body:where(.dark) .themeform.searchform div input:not([type="submit"]):focus { outline: 1px solid rgba(255,255,255,0.2); color: rgba(255,255,255,0.75); }
+
+body:where(.dark) .slick-posts-nav .slick-prev, 
+body:where(.dark) .slick-posts-nav .slick-next { background: #2a2a2a; }
+body:where(.dark) .slick-posts-nav .slick-prev:hover,
+body:where(.dark) .slick-posts-nav .slick-next:hover,
+body:where(.dark) .slick-posts-nav .slick-prev:focus,
+body:where(.dark) .slick-posts-nav .slick-next:focus { background: #333; }
+body:where(.dark) .slick-posts-nav .slick-prev:before,
+body:where(.dark) .slick-posts-nav .slick-next:before { color: #fff; }
+
+body:where(.dark) .slick-featured .slick-dots li button { background: #2a2a2a; border-color: #2a2a2a; }
+body:where(.dark) .slick-featured .slick-dots .slick-active button { background: #1a1a1a; border-color: #2a2a2a; }
+
+body:where(.dark) .highlights-card { border-right-color: #1a1a1a; }
+
+body:where(.dark) .more-link-custom { background: #444; color: #fff; }
+body:where(.dark) .more-link-custom:hover { color: rgba(255,255,255,0.8); }
+
+body:where(.dark) .blog-card { border-bottom-color: #1a1a1a; }
+body:where(.dark) .blog-card-thumb,
+body:where(.dark) .featured-card-thumb,
+body:where(.dark) .highlights-card-thumb { background-color: #1a1a1a; }
+body:where(.dark) .blog-card-thumb i,
+body:where(.dark) .featured-card-thumb i,
+body:where(.dark) .highlights-card-thumb i { color: rgba(255,255,255,0.2); }
+
+body:where(.dark) .header-comments li a { background: #444; color: rgba(255,255,255,0.7); box-shadow: none; }
+body:where(.dark) .header-comments li a:hover { background: #4a4a4a; color: #fff; }
+body:where(.dark) .header-comments li a:hover .header-comments-excerpt { color: rgba(255,255,255,0.5); }
+body:where(.dark) .header-comments li img { background: #444; border: 5px solid #444; box-shadow: none; }
+body:where(.dark) .header-comments li .header-comments-excerpt { color: rgba(255,255,255,0.5); }
+body:where(.dark) .header-comments li i.fa { color: #fff; }
+
+body:where(.dark) .intro-card-thumb { background: #444; box-shadow: none; }
+
+body:where(.dark) .blog-card-category a { background: #444; color: rgba(255,255,255,0.6); box-shadow: none; }
+
+body:where(.dark) .social-links .social-tooltip:hover:after { background: #fff; color: #000; }
+body:where(.dark) .social-links .social-tooltip:hover:before { border-color: #fff transparent; }
+
+body:where(.dark) #footer { background: rgba(255,255,255,0.08); box-shadow: inset 0 1px 0 rgba(255,255,255,0.06); }
+body:where(.dark) #footer-bottom #back-to-top { background: rgba(255,255,255,0.1); box-shadow: none; }
+
+body:where(.dark) .sharrre-header .sharrre .box { border-left-color: rgba(255,255,255,0.1); }
+
+body:where(.dark) .author-bio { background-color: rgba(255,255,255,0.1); box-shadow: inset 0 1px 0 rgba(255,255,255,0.06); -webkit-backdrop-filter: blur(20px); backdrop-filter: blur(20px); }
+body:where(.dark) .author-bio .bio-name { color: #fff; }
+body:where(.dark) .author-bio .bio-desc { color: rgba(255,255,255,0.5); }
+body:where(.dark) .author-bio .bio-avatar:after { background: #fff; color: #444; }
+
+body:where(.dark) .post-tags a { background: rgba(255,255,255,0.1); box-shadow: inset 0 1px 0 rgba(255,255,255,0.06); }
+body:where(.dark) .post-tags a:hover { background: #fff; color: #000; }
+
+body:where(.dark) .pagination ul li a { background: #2a2a2a; box-shadow: none; }
+
+body:where(.dark) .wp-pagenavi a,
+body:where(.dark) .wp-pagenavi span { color: rgba(255,255,255,0.4); }
+body:where(.dark) .wp-pagenavi a { background: rgba(255,255,255,0.08); box-shadow: inset 0 1px 0 rgba(255,255,255,0.08); color: #fff; }
+body:where(.dark) .wp-pagenavi a:hover,
+body:where(.dark) .wp-pagenavi a:active,
+body:where(.dark) .wp-pagenavi span.current { background: #fff; color: #000; }
+
+body:where(.dark) .entry .wp-caption { background: rgba(255,255,255,0.06); }
+body:where(.dark) .entry hr { background: rgba(255,255,255,0.12); }
+body:where(.dark) .entry dt { color: #fff; }
+body:where(.dark) .entry pre { border: 1px solid rgba(255,255,255,0.12); }
+body:where(.dark) .entry code { background: rgba(255,255,255,0.12); color: rgba(255,255,255,0.9); }
+body:where(.dark) .entry ins { background: rgba(255,255,255,0.12); }
+body:where(.dark) .entry table td { border-color: rgba(255,255,255,0.08); }
+body:where(.dark) .entry .wp-block-button a { background: rgba(255,255,255,0.12); color: #fff; }
+body:where(.dark) .entry .wp-block-calendar caption { background: rgba(255,255,255,0.06); color: #fff; }
+body:where(.dark) .entry .wp-block-calendar th { background: rgba(255,255,255,0.12); color: #fff; }
+body:where(.dark) .entry .wp-block-calendar td { color: rgba(255,255,255,0.5); }
+
+body:where(.dark) .widget > h3,
+body:where(.dark) .widget > h3 a,
+body:where(.dark) .widget > h3 a:hover,
+body:where(.dark) .widget .wp-block-heading,
+body:where(.dark) .widget .wp-block-heading a,
+body:where(.dark) .widget .wp-block-heading a:hover { color: #fff; }
+body:where(.dark) .widget > h3:after,
+body:where(.dark) .widget .wp-block-heading:after { background: rgba(255,255,255,0.1); }
+body:where(.dark) .widget > ul li:before,
+body:where(.dark) .widget > ul li a:before,
+body:where(.dark) .widget > div > ul li a:before,
+body:where(.dark) .widget_calendar caption:before { background: rgba(255,255,255,0.1); color: rgba(255,255,255,0.4); }
+body:where(.dark) .widget > ul li a:hover:before { color: rgba(255,255,255,0.7); }
+body:where(.dark) .widget_archive ul li,
+body:where(.dark) .widget_categories ul li,
+body:where(.dark) .widget_links ul li { color: rgba(255,255,255,0.3); }
+body:where(.dark) .widget_recent_comments ul li,
+body:where(.dark) .widget_recent_entries ul li { color: rgba(255,255,255,0.5); }
+body:where(.dark) .widget_rss ul li a { color: rgba(255,255,255,0.9); }
+body:where(.dark) .widget_rss ul li span.rss-date { color: rgba(255,255,255,0.5); }
+body:where(.dark) .widget_rss ul li cite { color: rgba(255,255,255,0.3); }
+body:where(.dark) .widget_calendar a { color: #fff; }
+body:where(.dark) .widget_calendar a:hover { color: #fff!important; }
+body:where(.dark) .widget_calendar caption { background: rgba(255,255,255,0.1); color: #fff; }
+body:where(.dark) .widget_calendar caption:before { color: rgba(255,255,255,0.7); }
+body:where(.dark) .widget_calendar thead { background: rgba(255,255,255,0.06); box-shadow: inset 0 -1px 0 rgba(255,255,255,0.04); }
+body:where(.dark) .widget_calendar th, 
+body:where(.dark) .widget_calendar td { border: 1px solid rgba(255,255,255,0.12); }
+
+body:where(.dark) .alx-tabs-nav { background: rgba(255,255,255,0.1); }
+body:where(.dark) .alx-tabs-nav li a { color: rgba(255,255,255,0.6); border-left: 1px solid rgba(255,255,255,0.04); }
+body:where(.dark) .alx-tabs-nav li a:hover { color: #fff; }
+body:where(.dark) .alx-tabs-nav li.active a { background: #444; color: #fff; }
+body:where(.dark) .alx-tab .tab-item-category a,
+body:where(.dark) .alx-posts .post-item-category a { background: rgba(255,255,255,0.1); color: rgba(255,255,255,0.6); box-shadow: none; }
+
+/* menu styling */
+body:where(.dark) .menu-toggle-icon span { background: #fff; }
+body:where(.dark) .nav-menu.mobile button:focus,
+body:where(.dark) .menu-toggle:focus { background: rgba(255,255,255,0.04); }
+body:where(.dark) .nav-menu a { color: #fff; }
+body:where(.dark) .nav-menu .svg-icon { fill: #fff; }
+body:where(.dark) .nav-menu:not(.mobile) .menu ul { background: #fff; color: #fff; }
+body:where(.dark) .nav-menu:not(.mobile) .menu ul:after { border-bottom-color: #fff; }
+body:where(.dark) .nav-menu:not(.mobile) .menu ul ul:after { border-right-color: #fff; }
+body:where(.dark) .nav-menu-dropdown-left .nav-menu:not(.mobile) .menu ul ul:after { border-left-color: #fff; border-bottom-color: transparent; }
+
+body:where(.dark) .nav-menu:not(.mobile) a { color: rgba(255,255,255,0.6); }
+body:where(.dark) .nav-menu:not(.mobile) a:hover { color: #fff; }
+body:where(.dark) .nav-menu:not(.mobile) ul ul a:hover { color: #000; }
+body:where(.dark) .nav-menu:not(.mobile) ul ul > li:hover > span { background: rgba(255,255,255,0.1); }
+body:where(.dark) .nav-menu:not(.mobile) ul ul a { color: #333; }
+body:where(.dark) .nav-menu:not(.mobile) ul ul span { border-bottom: 1px solid #eee; }
+body:where(.dark) .nav-menu:not(.mobile) button { color: #666; }
+body:where(.dark) .nav-menu:not(.mobile) button.active { background: rgba(255,255,255,0.1); color: rgba(255,255,255,0.5); }
+body:where(.dark) .nav-menu:not(.mobile) button .svg-icon { fill: rgba(255,255,255,0.3); }
+body:where(.dark) .nav-menu:not(.mobile) ul ul button { color: #eee; }
+body:where(.dark) .nav-menu:not(.mobile) ul ul button.active { background: #eee; color: rgba(0,0,0,0.5); }
+body:where(.dark) .nav-menu:not(.mobile) ul ul button .svg-icon { fill: rgba(0,0,0,0.5); }
+
+body:where(.dark) .nav-menu:not(.mobile) li.current_page_item > span > a, 
+body:where(.dark) .nav-menu:not(.mobile) li.current-menu-item > span > a, 
+body:where(.dark) .nav-menu:not(.mobile) li.current-menu-ancestor > span > a, 
+body:where(.dark) .nav-menu:not(.mobile) li.current-post-parent > span > a { color: #fff; }
+body:where(.dark) .nav-menu:not(.mobile) ul ul li.current_page_item > span > a, 
+body:where(.dark) .nav-menu:not(.mobile) ul ul li.current-menu-item > span > a, 
+body:where(.dark) .nav-menu:not(.mobile) ul ul li.current-menu-ancestor > span > a, 
+body:where(.dark) .nav-menu:not(.mobile) ul ul li.current-post-parent > span > a { color: #999; }
+
+body:where(.dark) .nav-menu.mobile { border-bottom-color: rgba(255,255,255,0.06); }
+body:where(.dark) .nav-menu.mobile button.active .svg-icon { fill: #fff; }
+body:where(.dark) .nav-menu.mobile ul ul { background: rgba(255,255,255,0.04); }
+body:where(.dark) .nav-menu.mobile ul li .menu-item-wrapper,
+body:where(.dark) .nav-menu.mobile ul ul li .menu-item-wrapper { border-bottom: 1px solid rgba(255,255,255,0.07); }
+body:where(.dark) .nav-menu.mobile ul li a { color: #fff; }
+body:where(.dark) .nav-menu.mobile ul button,
+body:where(.dark) .nav-menu.mobile ul ul button { border-left: 1px solid rgba(255,255,255,0.07); }
+body:where(.dark) .nav-menu.mobile > div > ul { border-top: 1px solid rgba(255,255,255,0.07); }
+
+@media only screen and (max-width: 719px) {
+	body:where(.dark) .site-title { border-bottom: 1px solid rgba(255,255,255,0.06); }
+	body:where(.dark) .post-nav li { border-bottom: 1px solid rgba(255,255,255,0.06); }
+}
