@@ -506,7 +506,6 @@ body { background: #fbfbfc; }
 .more-link-custom { background: #e2e7ef; border-radius: 20px 0 0 20px; position: absolute; padding: 6px 10px; color: #444c5f; right: 0; bottom: 14px; }
 .more-link-custom:hover { color: #444c5f; opacity: 0.8; padding-right: 16px; }
 
-.featured-wrap { overflow: hidden; }
 .slick-featured { opacity: 0; visibility: hidden; transition: opacity 1s ease; position: relative; }
 .slick-featured.slick-initialized { visibility: visible; opacity: 1; }
 .slick-featured .slick-slide > div > div { display: block!important; }
