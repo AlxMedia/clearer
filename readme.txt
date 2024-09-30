@@ -70,7 +70,10 @@ Carousel images
 == Changelog ==
 
 = 1.0.1 - 2024-09-30 =
+* Added styling option to disable sticky header
+* Added styling option to disable sticky sidebar
 * Updated screenshot and readme credit
+* Updated language files
 
 = 1.0.0 - 2024-09-30 =
 * Initial release

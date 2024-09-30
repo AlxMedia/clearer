@@ -26,10 +26,12 @@
 	.entry h5 { font-size: 18px; }
 	.entry h6 { font-size: 16px; text-transform: uppercase; }
 	
-	.wrapper-outer { padding-top: 0; }
 	#header .wrapper-inner { padding: 0; }
-	#header { position: relative; }
-	.admin-bar #header { top: 0; }
+	
+	.sticky-header .wrapper-outer { padding-top: 0; }
+	.sticky-header #header { position: relative; }
+	.sticky-header.admin-bar #header { top: 0; }
+	
 	#header,
 	#header .pad { padding: 0; }
 	.site-title { padding: 4px 0; margin: 0; width: 100%; float: none; line-height: 50px; border-bottom: 1px solid rgba(0,0,0,0.06); }

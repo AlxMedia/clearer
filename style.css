@@ -420,11 +420,15 @@ h1, h2, h3, h4, h5, h6 { color: #212632; font-weight: 600; -ms-word-wrap: break-
 /* ------------------------------------------------------------------------- */
 body { background: #fbfbfc; }
 
-.wrapper-outer { padding-top: 72px; }
+.wrapper-outer {  }
 .wrapper-inner { max-width: 1280px; padding: 0 30px; box-sizing: border-box; position: relative; width: 100%; z-index: 2; margin: 0 auto; }
 
-#header { background: #fff; padding: 6px 0; box-shadow: 0 24px 24px -12px #16223b08; position: fixed; z-index: 3; left: 0; right: 0; top: 0; }
-.admin-bar #header { top: var(--wp-admin--admin-bar--height); }
+#header { background: #fff; padding: 6px 0; box-shadow: 0 24px 24px -12px #16223b08; }
+
+.sticky-header .wrapper-outer { padding-top: 72px; }
+.sticky-header #header { position: fixed; z-index: 3; left: 0; right: 0; top: 0; }
+.sticky-header.admin-bar #header { top: var(--wp-admin--admin-bar--height); }
+
 @media only screen and (min-width: 720px) {
 	#header { background: rgba(255,255,255,0.85); backdrop-filter: blur(20px) brightness(100%); -webkit-backdrop-filter: blur(20px) brightness(100%); }
 }
@@ -434,8 +438,8 @@ body { background: #fbfbfc; }
 .main { display: flex; }
 .content { width: 70%; }
 .sidebar { width: 30%; }
-.sidebar-content { position: sticky; top: 72px; }
-.admin-bar .sidebar-content { top: 104px; }
+.sticky-sidebar .sidebar-content { position: sticky; top: 72px; }
+.sticky-sidebar.admin-bar .sidebar-content { top: 104px; }
 
 .col-1c .content { width: 100%; }
 .col-2cl .content { order: 1; }

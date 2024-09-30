@@ -473,6 +473,8 @@ if ( ! function_exists( 'clearer_body_class' ) ) {
 		if ( has_nav_menu( 'mobile' ) ) { $classes[] = 'mobile-menu'; }
 		if ( get_theme_mod( 'dark-theme' ,'off' ) == 'on' ) { $classes[] = 'dark'; }
 		if ( get_theme_mod( 'invert-logo' ,'on' ) == 'on' ) { $classes[] = 'invert-dark-logo'; }
+		if ( get_theme_mod( 'sticky-header' ,'on' ) == 'on' ) { $classes[] = 'sticky-header'; }
+		if ( get_theme_mod( 'sticky-sidebar' ,'on' ) == 'on' ) { $classes[] = 'sticky-sidebar'; }
 		if (! ( is_user_logged_in() ) ) { $classes[] = 'logged-out'; }
 		return $classes;
 	}

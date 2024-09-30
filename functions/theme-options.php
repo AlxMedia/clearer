@@ -697,6 +697,22 @@ Kirki::add_field( 'clearer_theme', array(
 	'section'		=> 'styling',
 	'default'		=> 'on',
 ) );
+// Styling: Sticky Header
+Kirki::add_field( 'clearer_theme', array(
+	'type'			=> 'switch',
+	'settings'		=> 'sticky-header',
+	'label'			=> esc_html__( 'Sticky Header', 'clearer' ),
+	'section'		=> 'styling',
+	'default'		=> 'on',
+) );
+// Styling: Sticky Sidebar
+Kirki::add_field( 'clearer_theme', array(
+	'type'			=> 'switch',
+	'settings'		=> 'sticky-sidebar',
+	'label'			=> esc_html__( 'Sticky Sidebar', 'clearer' ),
+	'section'		=> 'styling',
+	'default'		=> 'on',
+) );
 // Styling: Text Hover
 Kirki::add_field( 'clearer_theme', array(
 	'type'			=> 'color',
