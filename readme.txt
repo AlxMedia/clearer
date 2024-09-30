@@ -72,6 +72,7 @@ Carousel images
 = 1.0.1 - 2024-09-30 =
 * Added styling option to disable sticky header
 * Added styling option to disable sticky sidebar
+* Added fade-in of slick carousels when loaded
 * Updated screenshot and readme credit
 * Updated language files
 

@@ -480,6 +480,8 @@ body { background: #fbfbfc; }
 .featured-card .card-comments { font-size: 11px; position: absolute; right: 8px; top: 10px; }
 
 .highlights-wrap { border-radius: 12px; overflow: hidden; }
+.slick-highlights { opacity: 0; visibility: hidden; transition: opacity 1s ease; }
+.slick-highlights.slick-initialized { visibility: visible; opacity: 1; }
 .slick-highlights.slick-dotted.slick-slider { margin-bottom: 0; }
 .slick-highlights .slick-dots { bottom: -30px; top: auto; box-sizing: border-box; z-index: 3; }
 .slick-highlights .slick-dots li { margin: 0 6px; width: auto; height: auto; }
@@ -504,9 +506,10 @@ body { background: #fbfbfc; }
 .more-link-custom { background: #e2e7ef; border-radius: 20px 0 0 20px; position: absolute; padding: 6px 10px; color: #444c5f; right: 0; bottom: 14px; }
 .more-link-custom:hover { color: #444c5f; opacity: 0.8; padding-right: 16px; }
 
-.slick-featured { position: relative; }
+.featured-wrap { overflow: hidden; }
+.slick-featured { opacity: 0; visibility: hidden; transition: opacity 1s ease; position: relative; }
+.slick-featured.slick-initialized { visibility: visible; opacity: 1; }
 .slick-featured .slick-slide > div > div { display: block!important; }
-.slick-featured .slick-posts { display: none; }
 .slick-featured.slick-dotted.slick-slider { margin-bottom: 0; }
 .slick-featured .slick-dots { top: -58px; bottom: auto; box-sizing: border-box; pointer-events: none; }
 .slick-featured .slick-dots li { margin: 0 6px; width: auto; height: auto; pointer-events: auto; }

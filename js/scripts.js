@@ -76,8 +76,7 @@ jQuery(document).ready(function($) {
 		  }
 		}
 	  ]
-	});
-	$('.slick-featured').show();	
+	});	
 
 /*  Slick highlights
 /* ------------------------------------ */
@@ -104,7 +103,7 @@ jQuery(document).ready(function($) {
 	  arrows: true,
 	  responsive: [
 	    {
-		  breakpoint: 1024,
+		  breakpoint: 1080,
 		  settings: {
 			slidesToShow: 4
 		  }
@@ -128,7 +127,6 @@ jQuery(document).ready(function($) {
 		  }
 		}
 	  ]
-	});
-	$('.slick-highlights').show();	
+	});	
 	
 });
