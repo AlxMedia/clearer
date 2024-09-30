@@ -201,6 +201,5 @@ body:where(.dark) .nav-menu.mobile ul ul button { border-left: 1px solid rgba(25
 body:where(.dark) .nav-menu.mobile > div > ul { border-top: 1px solid rgba(255,255,255,0.07); }
 
 @media only screen and (max-width: 719px) {
-	body:where(.dark) .site-title { border-bottom: 1px solid rgba(255,255,255,0.06); }
 	body:where(.dark) .post-nav li { border-bottom: 1px solid rgba(255,255,255,0.06); }
 }

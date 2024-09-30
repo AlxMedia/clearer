@@ -73,6 +73,7 @@ Carousel images
 * Added styling option to disable sticky header
 * Added styling option to disable sticky sidebar
 * Added fade-in of slick carousels when loaded
+* Moved hamburger mobile menu button to same row as logo
 * Updated screenshot and readme credit
 * Updated language files
 
