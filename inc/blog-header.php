@@ -91,7 +91,7 @@ $highlight = new WP_Query(
 							<?php foreach ($comments as $comment): ?>
 							<li>
 								<a href="<?php echo esc_url(get_comment_link($comment->comment_ID)); ?>" class="group">
-									<span class="header-comments-avatar"><?php echo get_avatar($comment->comment_author_email,$size='96'); ?></span>
+									<span class="header-comments-avatar"><?php echo get_avatar($comment->comment_author_email,$size='60'); ?></span>
 									<?php $str=explode(' ',get_comment_excerpt($comment->comment_ID)); $comment_excerpt=implode(' ',array_slice($str,0,11)); if(count($str) > 11 && substr($comment_excerpt,-1)!='.') $comment_excerpt.='...' ?>
 									<span class="header-comments-inner">
 										<strong class="header-comments-title"><?php echo esc_html( $comment->comment_author ); ?>:</strong>

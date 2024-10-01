@@ -73,9 +73,9 @@ if ( ! function_exists( 'clearer_setup' ) ) {
 		remove_theme_support( 'widgets-block-editor' );
 		
 		// Thumbnail sizes
-		add_image_size( 'clearer-medium', 520, 293, true );
+		add_image_size( 'clearer-medium', 320, 180, true );
 		add_image_size( 'clearer-large', 800, 450, true );
-		add_image_size( 'clearer-huge', 1200, 675, true );
+		add_image_size( 'clearer-huge', 1000, 563, true );
 		
 		// Thumbnail sizes custom widgets
 		add_image_size( 'alx-small', 150, 150, true );
