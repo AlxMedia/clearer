@@ -69,6 +69,9 @@ Carousel images
 
 == Changelog ==
 
+= 1.0.2 - 2024-10-02 =
+* Fixed smaller thumbnail sizes for faster loading
+
 = 1.0.1 - 2024-09-30 =
 * Added styling option to disable sticky header
 * Added styling option to disable sticky sidebar
