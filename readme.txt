@@ -69,6 +69,10 @@ Carousel images
 
 == Changelog ==
 
+= 1.0.3 - 2024-10-30 =
+* Increased thumbnail size for content list
+* Updated language files
+
 = 1.0.2 - 2024-10-02 =
 * Fixed smaller thumbnail sizes for faster loading
 

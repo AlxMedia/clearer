@@ -1,6 +1,6 @@
 <div class="highlights-card">
 
-	<a href="<?php the_permalink(); ?>" class="highlights-card-thumb" style="background-image:url('<?php the_post_thumbnail_url('clearer-medium'); ?>');">
+	<a href="<?php the_permalink(); ?>" class="highlights-card-thumb" style="background-image:url('<?php the_post_thumbnail_url('clearer-small'); ?>');">
 		
 		<?php if ( has_post_thumbnail() ): ?>
 			
