@@ -181,6 +181,36 @@ Kirki::add_field( 'clearer_theme', array(
 		'step'	=> '1',
 	),
 ) );
+// Blog: Excerpt Length
+Kirki::add_field( 'clearer_theme', array(
+	'type'			=> 'slider',
+	'settings'		=> 'excerpt-length',
+	'label'			=> esc_html__( 'Excerpt Length', 'clearer' ),
+	'description'	=> esc_html__( 'Max number of words. Set it to 0 to disable.', 'clearer' ),
+	'section'		=> 'blog',
+	'default'		=> '20',
+	'choices'     => array(
+		'min'	=> '0',
+		'max'	=> '100',
+		'step'	=> '1',
+	),
+) );
+
+// Blog: Number of Suggested Posts in Search Results
+Kirki::add_field( 'clearer_theme', array(
+	'type'        => 'slider',
+	'settings'    => 'suggested-posts-count',
+	'label'       => esc_html__( 'Number of Suggested Posts in Search Results', 'clearer' ),
+	'description' => esc_html__( 'Max number of suggested posts to display. Set to 0 to disable suggestions.', 'clearer' ),
+	'section'     => 'blog',
+	'default'     => 5,
+	'choices'     => array(
+		'min'  => 0,
+		'max'  => 10,
+		'step' => 1,
+	),
+) );
+
 // Blog: Comment Count
 Kirki::add_field( 'clearer_theme', array(
 	'type'			=> 'switch',
