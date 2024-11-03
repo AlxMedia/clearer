@@ -69,6 +69,9 @@ Carousel images
 
 == Changelog ==
 
+= 1.0.4 - 2024-11-03 =
+* Fixed search results
+
 = 1.0.3 - 2024-10-30 =
 * Increased thumbnail size for content list
 * Updated language files

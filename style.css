@@ -1,7 +1,7 @@
 /*
 Theme Name: Clearer
 Theme URI: http://alx.media/themes/clearer/
-Version: 1.0.3
+Version: 1.0.4
 Requires at least: 5.0
 Requires PHP: 5.6
 Tested up to: 6.6
@@ -461,6 +461,9 @@ body { background: #fbfbfc; }
 .admin-bar .stickywrap .stickywrap-heading { top: 32px; }
 .stickywrap .stickywrap-inner { background: #fff; border-radius: 12px; position: relative; box-shadow: 0 0 0 1px #0e3f7e0a,0 1px 1px -.5px #2a33450a,0 3px 3px -1.5px #2a33460a,0 6px 6px -3px #2a33460a,0 12px 12px -6px #0e3f7e0a,0 24px 24px -12px #0e3f7e0a; }
 .content .stickywrap .stickywrap-inner { overflow: hidden; border-radius: 12px; }
+
+.search .contentbox { margin-bottom: 20px; }
+.search .type-page .blog-card-date { display: none; }
 
 .intro-card-inner { position: relative; padding: 20px; text-align: center; }
 .intro-card-left {  }
