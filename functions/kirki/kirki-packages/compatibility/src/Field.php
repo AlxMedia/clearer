@@ -172,6 +172,15 @@ class Field {
 	protected $output = array();
 
 	/**
+	 * Compiler variable to hold compiled CSS or related output.
+	 *
+	 * @access protected
+	 * @var mixed
+	 */
+	protected $compiler;
+
+
+	/**
 	 * Use to automatically generate postMessage scripts.
 	 * Not necessary to use if you use 'transport' => 'auto'
 	 * and have already set an array for the 'output' argument.
