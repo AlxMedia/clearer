@@ -8,7 +8,7 @@ Tags: blog, one-column, two-columns, right-sidebar, left-sidebar, custom-colors,
 
 == Description ==
 
-Clearer is a flexible blog and magazine theme with plenty of options. Optimized for all devices, this theme will stand out with a unique design, including dark/light mode. Demo: http://demo.alx.media/x/?theme=Clearer
+Clearer is a flexible blog and magazine theme with plenty of options. Optimized for all devices, this theme will stand out with a unique design, including dark/light mode. Demo: https://demo.agnarson.com/?theme=Clearer
 
 == Installation ==
 
@@ -19,7 +19,7 @@ Clearer is a flexible blog and magazine theme with plenty of options. Optimized 
 
 == Documentation ==
 
-http://alx.media/documentation/
+https://agnarson.com/documentation/
 
 == Copyright ==
 
