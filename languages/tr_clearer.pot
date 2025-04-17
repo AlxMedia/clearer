@@ -18,116 +18,115 @@ msgstr ""
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: functions/class-tgm-plugin-activation.php\n"
 "X-Poedit-SearchPathExcluded-1: functions/kirki\n"
-
 #: comments.php:20
 msgid "Leave a comment"
-msgstr ""
+msgstr "Yorum Yap"
 
 #: comments.php:23
 #, php-format
 msgid "One reply on &ldquo;%s&rdquo;"
-msgstr ""
+msgstr "&ldquo;%s&rdquo; için bir yanıt"
 
 #: comments.php:28
 #, php-format
 msgid "%1$s reply on &ldquo;%2$s&rdquo;"
-msgstr ""
+msgstr "&ldquo;%2$s&rdquo; için %1$s yanıt"
 
 #: comments.php:58
 msgid "Newer Comments"
-msgstr ""
+msgstr "Yeni Yorumlar"
 
 #: comments.php:59
 msgid "Older Comments"
-msgstr ""
+msgstr "Eski Yorumlar"
 
 #: comments.php:76
 msgid "Comments"
-msgstr ""
+msgstr "Yorumlar"
 
 #: comments.php:106
 msgid "Comments are closed."
-msgstr ""
+msgstr "Yorumlar kapalı."
 
 #: footer.php:64
 msgid "Y"
-msgstr ""
+msgstr "Y"
 
 #: footer.php:64
 msgid "All Rights Reserved."
-msgstr ""
+msgstr "Tüm Hakları Saklıdır."
 
 #: footer.php:70
 msgid "Powered by"
-msgstr ""
+msgstr "Destekleyen"
 
 #: footer.php:70
 msgid "https://wordpress.org"
-msgstr ""
+msgstr "https://wordpress.org"
 
 #: footer.php:70
 msgid "Theme by"
-msgstr ""
+msgstr "Tema sağlayıcısı"
 
 #: functions.php:87
 msgid "Mobile"
-msgstr ""
+msgstr "Mobil"
 
 #: functions.php:88
 msgid "Header"
-msgstr ""
+msgstr "Başlık"
 
 #: functions.php:182
 msgid "Primary"
-msgstr ""
+msgstr "Birincil"
 
 #: functions.php:182
 msgid "Normal full width sidebar"
-msgstr ""
+msgstr "Normal tam genişlikte kenar çubuğu"
 
 #: functions.php:184
 msgid "Footer 1"
-msgstr ""
+msgstr "Alt Bilgi 1"
 
 #: functions.php:184 functions.php:185 functions.php:186 functions.php:187
 msgid "Widgetized footer"
-msgstr ""
+msgstr "Bileşenli alt bilgi"
 
 #: functions.php:185
 msgid "Footer 2"
-msgstr ""
+msgstr "Alt Bilgi 2"
 
 #: functions.php:186
 msgid "Footer 3"
-msgstr ""
+msgstr "Alt Bilgi 3"
 
 #: functions.php:187
 msgid "Footer 4"
-msgstr ""
+msgstr "Alt Bilgi 4"
 
 #: functions.php:590
 msgid "Alx Extensions"
-msgstr ""
+msgstr "Alx Eklentileri"
 
 #: functions.php:594
 msgid "Meta Box"
-msgstr ""
+msgstr "Meta Kutusu"
 
 #: functions.php:598
 msgid "Regenerate Thumbnails"
-msgstr ""
+msgstr "Küçük Resimleri Yeniden Oluştur"
 
 #: functions.php:602
 msgid "WP-PageNavi"
-msgstr ""
+msgstr "WP-PageNavi"
 
 #: functions/meta-boxes.php:21
 msgid "Page Options"
-msgstr ""
+msgstr "Sayfa Seçenekleri"
 
 #: functions/meta-boxes.php:29 functions/meta-boxes.php:63
 msgid "Primary Sidebar"
-msgstr ""
+msgstr "Birincil Kenar Çubuğu"
 
 #: functions/meta-boxes.php:31 functions/meta-boxes.php:65
 #: functions/theme-options.php:477 functions/theme-options.php:487
@@ -135,695 +134,686 @@ msgstr ""
 #: functions/theme-options.php:517 functions/theme-options.php:527
 #: functions/theme-options.php:537
 msgid "Select a sidebar"
-msgstr ""
+msgstr "Bir kenar çubuğu seçin"
 
 #: functions/meta-boxes.php:37 functions/meta-boxes.php:71
 #: functions/theme-options.php:62
 msgid "Layout"
-msgstr ""
+msgstr "Düzen"
 
 #: functions/meta-boxes.php:55
 msgid "Post Options"
-msgstr ""
+msgstr "Gönderi Seçenekleri"
 
 #: functions/nav.php:170
 msgid "Expand Menu"
-msgstr ""
+msgstr "Menüyü Genişlet"
 
 #: functions/nav.php:212
 msgid "Toggle Child Menu"
-msgstr ""
+msgstr "Alt Menüyü Aç/Kapat"
 
 #: functions/nav.php:286 functions/nav.php:300
 #, php-format
 msgid "<span class=\"screen-reader-text\">%1$s </span>%2$s"
-msgstr ""
+msgstr "<span class=\"ekran-okuyucu-metin\">%1$s </span>%2$s"
+
 
 #: functions/nav.php:287
 msgid "Current Page:"
-msgstr ""
+msgstr "Şu Anki Sayfa:"
 
 #: functions/nav.php:301
 msgid "Current Page Parent"
-msgstr ""
+msgstr "Geçerli Sayfa Üst Kategori"
 
 #: functions/theme-options.php:16
 msgid "AlxMedia"
-msgstr ""
+msgstr "AlxMedia"
 
 #: functions/theme-options.php:18
 msgid "View More Themes"
-msgstr ""
+msgstr "Daha Fazla Tema Görüntüle"
 
 #: functions/theme-options.php:23
 msgid "Like This Theme?"
-msgstr ""
+msgstr "Bu Temayı Beğendiniz mi?"
 
 #: functions/theme-options.php:26
 msgid "Write a Review"
-msgstr ""
+msgstr "Yorum Yazın"
 
 #: functions/theme-options.php:35
 msgid "Theme Options"
-msgstr ""
+msgstr "Tema Seçenekleri"
 
 #: functions/theme-options.php:42
 msgid "General"
-msgstr ""
+msgstr "Genel"
 
 #: functions/theme-options.php:47
 msgid "Blog"
-msgstr ""
+msgstr "Blog"
 
 #: functions/theme-options.php:52
 msgid "Profile"
-msgstr ""
+msgstr "Profil"
 
 #: functions/theme-options.php:57
 msgid "Footer"
-msgstr ""
+msgstr "Alt Bilgi"
 
 #: functions/theme-options.php:67
 msgid "Sidebars"
-msgstr ""
+msgstr "Kenar Çubukları"
 
 #: functions/theme-options.php:72
 msgid "Social Links"
-msgstr ""
+msgstr "Sosyal Bağlantılar"
 
 #: functions/theme-options.php:77
 msgid "Styling"
-msgstr ""
+msgstr "Stil"
 
 #: functions/theme-options.php:88
 msgid "Recommended Plugins"
-msgstr ""
+msgstr "Önerilen Eklentiler"
 
 #: functions/theme-options.php:89
 msgid "Enable or disable the recommended plugins notice"
-msgstr ""
+msgstr "Önerilen eklentiler bildirimini etkinleştir veya devre dışı bırak"
 
 #: functions/theme-options.php:97
 msgid "Search Field"
-msgstr ""
+msgstr "Arama Alanı"
 
 #: functions/theme-options.php:98
 msgid "Subheader search field"
-msgstr ""
+msgstr "Alt başlık arama alanı"
 
 #: functions/theme-options.php:106
 msgid "Featured Posts Exclude"
-msgstr ""
+msgstr "Öne Çıkan Gönderileri Hariç Tut"
 
 #: functions/theme-options.php:107
 msgid "Exclude featured posts from the content below"
-msgstr ""
+msgstr "Aşağıdaki içerikten öne çıkan gönderileri hariç tut"
 
 #: functions/theme-options.php:115
 msgid "Featured Category"
-msgstr ""
+msgstr "Öne Çıkan Kategori"
 
 #: functions/theme-options.php:116 functions/theme-options.php:141
-msgid ""
-"By not selecting a category, it will show your latest post(s) from all "
-"categories"
-msgstr ""
+msgid "By not selecting a category, it will show your latest post(s) from all categories"
+msgstr "Bir kategori seçmezseniz, tüm kategorilerden en son gönderilerinizi gösterir"
 
 #: functions/theme-options.php:120 functions/theme-options.php:145
 msgid "Select a category"
-msgstr ""
+msgstr "Bir kategori seçin"
 
 #: functions/theme-options.php:126
 msgid "Featured Post Count"
-msgstr ""
+msgstr "Öne Çıkan Gönderi Sayısı"
 
 #: functions/theme-options.php:127
 msgid "Max number of featured posts to display. Set it to 0 to disable"
-msgstr ""
+msgstr "Görüntülenecek maksimum öne çıkan gönderi sayısı. Devre dışı bırakmak için 0 yapın"
+
 
 #: functions/theme-options.php:140
 msgid "Highlight Category"
-msgstr ""
+msgstr "Vurgulanan Kategori"
 
 #: functions/theme-options.php:151
 msgid "Highlight Post Count"
-msgstr ""
+msgstr "Vurgulanan Gönderi Sayısı"
 
 #: functions/theme-options.php:152
 msgid "Max number of highlight posts to display. Set it to 0 to disable."
-msgstr ""
+msgstr "Görüntülenecek maksimum vurgulanan gönderi sayısı. Devre dışı bırakmak için 0 yapın."
 
 #: functions/theme-options.php:165 inc/blog-header.php:82
 msgid "Recent Comments"
-msgstr ""
+msgstr "Son Yorumlar"
 
 #: functions/theme-options.php:166
 msgid "Shown above in the home header"
-msgstr ""
+msgstr "Ana sayfa başlığının üzerinde gösterilir"
 
 #: functions/theme-options.php:174
 msgid "Excerpt Length"
-msgstr ""
+msgstr "Alıntı Uzunluğu"
 
 #: functions/theme-options.php:175
 msgid "Max number of words. Set it to 0 to disable."
-msgstr ""
+msgstr "Maksimum kelime sayısı. Devre dışı bırakmak için 0 yapın."
 
 #: functions/theme-options.php:188
 msgid "Comment Count"
-msgstr ""
+msgstr "Yorum Sayısı"
 
 #: functions/theme-options.php:189
 msgid "Comment count with bubbles"
-msgstr ""
+msgstr "Baloncuklu yorum sayısı"
 
 #: functions/theme-options.php:197
 msgid "More Link"
-msgstr ""
+msgstr "Daha Fazla Bağlantısı"
 
 #: functions/theme-options.php:198
 msgid "Arrow buttons for each entry"
-msgstr ""
+msgstr "Her giriş için ok düğmeleri"
 
 #: functions/theme-options.php:206
 msgid "Single - Featured Image"
-msgstr ""
+msgstr "Tek - Öne Çıkan Görsel"
 
 #: functions/theme-options.php:207
 msgid "Auto-display featured image in the blog header"
-msgstr ""
+msgstr "Blog başlığında öne çıkan görseli otomatik göster"
 
 #: functions/theme-options.php:215
 msgid "Single - Author Bio"
-msgstr ""
+msgstr "Tek - Yazar Biyografisi"
 
 #: functions/theme-options.php:216
 msgid "Shows post author description, if it exists"
-msgstr ""
+msgstr "Gönderi yazarının açıklamasını gösterir, varsa"
 
 #: functions/theme-options.php:224
 msgid "Single - Post Navigation"
-msgstr ""
+msgstr "Tek - Gönderi Navigasyonu"
 
 #: functions/theme-options.php:225
 msgid "Shows links to the next and previous article"
-msgstr ""
+msgstr "Sonraki ve önceki makaleye bağlantılar gösterir"
 
 #: functions/theme-options.php:229 functions/theme-options.php:243
 msgid "Disable"
-msgstr ""
+msgstr "Devre Dışı Bırak"
 
 #: functions/theme-options.php:230
 msgid "Sidebar"
-msgstr ""
+msgstr "Kenar Çubuğu"
 
 #: functions/theme-options.php:231
 msgid "Below content"
-msgstr ""
+msgstr "İçeriğin Altında"
 
 #: functions/theme-options.php:238
 msgid "Single - Related Posts"
-msgstr ""
+msgstr "Tek - İlgili Gönderiler"
 
 #: functions/theme-options.php:239
 msgid "Shows randomized related articles below the post"
-msgstr ""
+msgstr "Gönderinin altında rastgele ilgili makaleleri gösterir"
 
 #: functions/theme-options.php:244
 msgid "Related by categories"
-msgstr ""
+msgstr "Kategorilere Göre İlgili"
 
 #: functions/theme-options.php:245
 msgid "Related by tags"
-msgstr ""
+msgstr "Etiketlere Göre İlgili"
 
 #: functions/theme-options.php:252
 msgid "Profile Image"
-msgstr ""
+msgstr "Profil Görseli"
 
 #: functions/theme-options.php:253
-msgid "Square size "
-msgstr ""
+msgid "Square size"
+msgstr "Kare Boyut"
 
 #: functions/theme-options.php:261
 msgid "Profile Name"
-msgstr ""
+msgstr "Profil Adı"
 
 #: functions/theme-options.php:262
 msgid "Your name appears beside the image"
-msgstr ""
+msgstr "Adınız görselin yanında görünür"
 
 #: functions/theme-options.php:270
 msgid "Profile Description"
-msgstr ""
+msgstr "Profil Açıklaması"
 
 #: functions/theme-options.php:271
 msgid "A short description of you"
-msgstr ""
+msgstr "Sizinle ilgili kısa bir açıklama"
 
 #: functions/theme-options.php:279
 msgid "Profile Social Links"
-msgstr ""
+msgstr "Profil Sosyal Bağlantıları"
 
 #: functions/theme-options.php:280 functions/theme-options.php:305
 msgid "Social link icon buttons"
-msgstr ""
+msgstr "Sosyal bağlantı simge düğmeleri"
 
 #: functions/theme-options.php:288
 msgid "Footer Widget Columns"
-msgstr ""
+msgstr "Alt Bilgi Bileşen Sütunları"
 
 #: functions/theme-options.php:289
 msgid "Select columns to enable footer widgets. Recommended number: 3"
-msgstr ""
+msgstr "Alt bilgi bileşenlerini etkinleştirmek için sütunları seçin. Önerilen sayı: 3"
 
 #: functions/theme-options.php:304
 msgid "Footer Social Links"
-msgstr ""
+msgstr "Alt Bilgi Sosyal Bağlantıları"
 
 #: functions/theme-options.php:313
 msgid "Footer Logo"
-msgstr ""
+msgstr "Alt Bilgi Logosu"
 
 #: functions/theme-options.php:314
 msgid "Upload your custom logo image"
-msgstr ""
+msgstr "Özel logo görselinizi yükleyin"
 
 #: functions/theme-options.php:322
 msgid "Footer Copyright"
-msgstr ""
+msgstr "Alt Bilgi Telif Hakkı"
 
 #: functions/theme-options.php:323
 msgid "Replace the footer copyright text"
-msgstr ""
+msgstr "Alt bilgi telif hakkı metnini değiştirin"
 
 #: functions/theme-options.php:331
 msgid "Footer Credit"
-msgstr ""
+msgstr "Alt Bilgi Kredisi"
 
 #: functions/theme-options.php:332
 msgid "Footer credit text"
-msgstr ""
+msgstr "Alt bilgi kredi metni"
 
 #: functions/theme-options.php:340
 msgid "Global Layout"
-msgstr ""
+msgstr "Genel Düzen"
 
 #: functions/theme-options.php:341
 msgid "Other layouts will override this option if they are set"
-msgstr ""
+msgstr "Diğer düzenler ayarlanmışsa bu seçeneği geçersiz kılacaktır"
 
 #: functions/theme-options.php:354 functions/theme-options.php:472
 msgid "Home"
-msgstr ""
+msgstr "Ana Sayfa"
 
 #: functions/theme-options.php:355
 msgid "(is_home) Posts homepage layout"
-msgstr ""
+msgstr "(is_home) Gönderiler ana sayfa düzeni"
 
 #: functions/theme-options.php:369 functions/theme-options.php:482
 msgid "Single"
-msgstr ""
+msgstr "Tek"
 
 #: functions/theme-options.php:370
-msgid ""
-"(is_single) Single post layout - If a post has a set layout, it will "
-"override this."
-msgstr ""
+msgid "(is_single) Single post layout - If a post has a set layout, it will override this."
+msgstr "(is_single) Tek gönderi düzeni - Eğer gönderi belirli bir düzene sahipse, bunu geçersiz kılar."
 
 #: functions/theme-options.php:384 functions/theme-options.php:492
 msgid "Archive"
-msgstr ""
+msgstr "Arşiv"
 
 #: functions/theme-options.php:385
 msgid "(is_archive) Category, date, tag and author archive layout"
-msgstr ""
+msgstr "(is_archive) Kategori, tarih, etiket ve yazar arşiv düzeni"
 
 #: functions/theme-options.php:399 functions/theme-options.php:502
 msgid "Archive - Category"
-msgstr ""
+msgstr "Arşiv - Kategori"
 
 #: functions/theme-options.php:400
 msgid "(is_category) Category archive layout"
-msgstr ""
+msgstr "(is_category) Kategori arşiv düzeni"
 
 #: functions/theme-options.php:414 functions/theme-options.php:512
 msgid "Search"
-msgstr ""
+msgstr "Arama"
 
 #: functions/theme-options.php:415
 msgid "(is_search) Search page layout"
-msgstr ""
+msgstr "(is_search) Arama sayfası düzeni"
 
 #: functions/theme-options.php:429 functions/theme-options.php:522
 #: inc/page-title.php:31
 msgid "Error 404"
-msgstr ""
+msgstr "Hata 404"
 
 #: functions/theme-options.php:430
 msgid "(is_404) Error 404 page layout"
-msgstr ""
+msgstr "(is_404) Hata 404 sayfa düzeni"
 
 #: functions/theme-options.php:444 functions/theme-options.php:532
 msgid "Default Page"
-msgstr ""
+msgstr "Varsayılan Sayfa"
 
 #: functions/theme-options.php:445
-msgid ""
-"(is_page) Default page layout - If a page has a set layout, it will "
-"override this."
-msgstr ""
+msgid "(is_page) Default page layout - If a page has a set layout, it will override this."
+msgstr "(is_page) Varsayılan sayfa düzeni - Eğer sayfa belirli bir düzene sahipse, bunu geçersiz kılar."
 
 #: functions/theme-options.php:473
 msgid "(is_home) Primary"
-msgstr ""
+msgstr "(is_home) Birincil"
 
 #: functions/theme-options.php:483
-msgid ""
-"(is_single) Primary - If a single post has a unique sidebar, it will "
-"override this."
-msgstr ""
+msgid "(is_single) Primary - If a single post has a unique sidebar, it will override this."
+msgstr "(is_single) Birincil - Eğer tek bir gönderinin benzersiz bir kenar çubuğu varsa, bunu geçersiz kılar."
 
 #: functions/theme-options.php:493
 msgid "(is_archive) Primary"
-msgstr ""
+msgstr "(is_archive) Birincil"
 
 #: functions/theme-options.php:503
 msgid "(is_category) Primary"
-msgstr ""
+msgstr "(is_category) Birincil"
 
 #: functions/theme-options.php:513
 msgid "(is_search) Primary"
-msgstr ""
+msgstr "(is_search) Birincil"
 
 #: functions/theme-options.php:523
 msgid "(is_404) Primary"
-msgstr ""
+msgstr "(is_404) Birincil"
 
 #: functions/theme-options.php:533
-msgid ""
-"(is_page) Primary - If a page has a unique sidebar, it will override this."
-msgstr ""
+msgid "(is_page) Primary - If a page has a unique sidebar, it will override this."
+msgstr "(is_page) Birincil - Eğer bir sayfanın benzersiz bir kenar çubuğu varsa, bunu geçersiz kılar."
 
 #: functions/theme-options.php:545
 msgid "Create Social Links"
-msgstr ""
+msgstr "Sosyal Bağlantılar Oluştur"
 
 #: functions/theme-options.php:546
 msgid "Create and organize your social links"
-msgstr ""
+msgstr "Sosyal bağlantılarınızı oluşturun ve düzenleyin"
 
 #: functions/theme-options.php:548
 msgid "Font Awesome names:"
-msgstr ""
+msgstr "Font Awesome isimleri:"
 
 #: functions/theme-options.php:548 functions/theme-options.php:565
 msgid "View All"
-msgstr ""
+msgstr "Tümünü Görüntüle"
 
 #: functions/theme-options.php:551
 msgid "social link"
-msgstr ""
+msgstr "sosyal bağlantı"
 
 #: functions/theme-options.php:558
 msgid "Title"
-msgstr ""
+msgstr "Başlık"
 
 #: functions/theme-options.php:559
 msgid "Ex: Facebook"
-msgstr ""
+msgstr "Örn: Facebook"
 
 #: functions/theme-options.php:564
 msgid "Icon Name"
-msgstr ""
+msgstr "Simge Adı"
 
 #: functions/theme-options.php:565
 msgid "Font Awesome icons. Ex: fa-facebook "
-msgstr ""
+msgstr "Font Awesome simgeleri. Örn: fa-facebook"
 
 #: functions/theme-options.php:570
 msgid "Link"
-msgstr ""
+msgstr "Bağlantı"
 
 #: functions/theme-options.php:571
 msgid "Enter the full url for your icon button"
-msgstr ""
+msgstr "Simge düğmeniz için tam URL'yi girin"
 
 #: functions/theme-options.php:576
 msgid "Icon Color"
-msgstr ""
+msgstr "Simge Rengi"
 
 #: functions/theme-options.php:577
 msgid "Set a unique color for your icon (optional)"
-msgstr ""
+msgstr "Simgeniz için benzersiz bir renk ayarlayın (isteğe bağlı)"
 
 #: functions/theme-options.php:582
 msgid "Open in new window"
-msgstr ""
+msgstr "Yeni pencerede aç"
 
 #: functions/theme-options.php:591
 msgid "Dynamic Styles"
-msgstr ""
+msgstr "Dinamik Stiller"
 
 #: functions/theme-options.php:592
 msgid "Turn on to use the styling options below"
-msgstr ""
+msgstr "Aşağıdaki stil seçeneklerini kullanmak için etkinleştirin"
 
 #: functions/theme-options.php:600
 msgid "Font"
-msgstr ""
+msgstr "Yazı Tipi"
 
 #: functions/theme-options.php:601
 msgid "Select font for the theme"
-msgstr ""
+msgstr "Tema için yazı tipi seçin"
 
 #: functions/theme-options.php:605
 msgid "Titillium Web, Latin-Ext"
-msgstr ""
+msgstr "Titillium Web, Latin-Ext"
 
 #: functions/theme-options.php:606
 msgid "Droid Serif, Latin"
-msgstr ""
+msgstr "Droid Serif, Latin"
 
 #: functions/theme-options.php:607
 msgid "Source Sans Pro, Latin-Ext"
-msgstr ""
+msgstr "Source Sans Pro, Latin-Ext"
 
 #: functions/theme-options.php:608
 msgid "Lato, Latin"
-msgstr ""
+msgstr "Lato, Latin"
 
 #: functions/theme-options.php:609
 msgid "Raleway, Latin"
-msgstr ""
+msgstr "Raleway, Latin"
 
 #: functions/theme-options.php:610
 msgid "Inter, Latin"
-msgstr ""
+msgstr "Inter, Latin"
 
 #: functions/theme-options.php:611
 msgid "Ubuntu, Latin-Ext"
-msgstr ""
+msgstr "Ubuntu, Latin-Ext"
 
 #: functions/theme-options.php:612
 msgid "Ubuntu, Latin / Cyrillic-Ext"
-msgstr ""
+msgstr "Ubuntu, Latin / Kiril-Ext"
 
 #: functions/theme-options.php:613
 msgid "Roboto, Latin-Ext"
-msgstr ""
+msgstr "Roboto, Latin-Ext"
 
 #: functions/theme-options.php:614
 msgid "Roboto, Latin / Cyrillic-Ext"
-msgstr ""
+msgstr "Roboto, Latin / Kiril-Ext"
 
 #: functions/theme-options.php:615
 msgid "Roboto Condensed, Latin-Ext"
-msgstr ""
+msgstr "Roboto Condensed, Latin-Ext"
 
 #: functions/theme-options.php:616
 msgid "Roboto Condensed, Latin / Cyrillic-Ext"
-msgstr ""
+msgstr "Roboto Condensed, Latin / Kiril-Ext"
 
 #: functions/theme-options.php:617
 msgid "Roboto Slab, Latin-Ext"
-msgstr ""
+msgstr "Roboto Slab, Latin-Ext"
 
 #: functions/theme-options.php:618
 msgid "Roboto Slab, Latin / Cyrillic-Ext"
-msgstr ""
+msgstr "Roboto Slab, Latin / Kiril-Ext"
 
 #: functions/theme-options.php:619
 msgid "Playfair Display, Latin-Ext"
-msgstr ""
+msgstr "Playfair Display, Latin-Ext"
 
 #: functions/theme-options.php:620
 msgid "Playfair Display, Latin / Cyrillic"
-msgstr ""
+msgstr "Playfair Display, Latin / Kiril"
 
 #: functions/theme-options.php:621
 msgid "Open Sans, Latin-Ext"
-msgstr ""
+msgstr "Open Sans, Latin-Ext"
 
 #: functions/theme-options.php:622
 msgid "Open Sans, Latin / Cyrillic-Ext"
-msgstr ""
+msgstr "Open Sans, Latin / Kiril-Ext"
 
 #: functions/theme-options.php:623
 msgid "PT Serif, Latin-Ext"
-msgstr ""
+msgstr "PT Serif, Latin-Ext"
 
 #: functions/theme-options.php:624
 msgid "PT Serif, Latin / Cyrillic-Ext"
-msgstr ""
+msgstr "PT Serif, Latin / Kiril-Ext"
 
 #: functions/theme-options.php:625
 msgid "Arial"
-msgstr ""
+msgstr "Arial"
 
 #: functions/theme-options.php:626
 msgid "Georgia"
-msgstr ""
+msgstr "Georgia"
 
 #: functions/theme-options.php:627
 msgid "Verdana"
-msgstr ""
+msgstr "Verdana"
 
 #: functions/theme-options.php:628
 msgid "Tahoma"
-msgstr ""
+msgstr "Tahoma"
 
 #: functions/theme-options.php:635
 msgid "Website Max-width"
-msgstr ""
+msgstr "Web Sitesi Maksimum Genişlik"
 
 #: functions/theme-options.php:636
 msgid "Max-width of the container"
-msgstr ""
+msgstr "Kapsayıcının maksimum genişliği"
 
 #: functions/theme-options.php:649
 msgid "Content Max-width"
-msgstr ""
+msgstr "İçerik Maksimum Genişlik"
+
 
 #: functions/theme-options.php:650
 msgid "Max-width of the content on posts and pages"
-msgstr ""
+msgstr "Gönderiler ve sayfalardaki içeriğin maksimum genişliği"
 
 #: functions/theme-options.php:663
 msgid "Header Logo Image Max-height"
-msgstr ""
+msgstr "Başlık Logo Görseli Maksimum Yükseklik"
 
 #: functions/theme-options.php:664
-msgid ""
-"Your logo image should have the double height of this to be high resolution"
-msgstr ""
+msgid "Your logo image should have the double height of this to be high resolution"
+msgstr "Logonuz yüksek çözünürlükte olması için bu yüksekliğin iki katı olmalıdır"
 
 #: functions/theme-options.php:677
 msgid "Dark Theme"
-msgstr ""
+msgstr "Karanlık Tema"
 
 #: functions/theme-options.php:678
 msgid "Use dark instead of light base"
-msgstr ""
+msgstr "Açık taban yerine karanlık kullanın"
 
 #: functions/theme-options.php:686
 msgid "Light/Dark Theme Toggle"
-msgstr ""
+msgstr "Açık/Karanlık Tema Geçişi"
 
 #: functions/theme-options.php:687
 msgid "Do not use with dark theme enabled"
-msgstr ""
+msgstr "Karanlık tema etkinleştirildiğinde kullanmayın"
 
 #: functions/theme-options.php:695
 msgid "Invert Dark Logo Color"
-msgstr ""
+msgstr "Karanlık Logo Rengini Ters Çevir"
 
 #: functions/theme-options.php:696
 msgid "Change color for the logo in dark mode"
-msgstr ""
+msgstr "Karanlık modda logo rengini değiştirin"
 
 #: functions/theme-options.php:704
 msgid "Sticky Header"
-msgstr ""
+msgstr "Sabit Başlık"
 
 #: functions/theme-options.php:712
 msgid "Sticky Sidebar"
-msgstr ""
+msgstr "Sabit Kenar Çubuğu"
 
 #: functions/theme-options.php:720
 msgid "Text Hover Color"
-msgstr ""
+msgstr "Metin Üzerine Gelme Rengi"
 
 #: functions/theme-options.php:728
 msgid "More Link Color"
-msgstr ""
+msgstr "Daha Fazla Bağlantı Rengi"
 
 #: functions/theme-options.php:736
 msgid "Comment Bubble Color"
-msgstr ""
+msgstr "Yorum Balon Rengi"
 
 #: functions/theme-options.php:744
 msgid "Background Color"
-msgstr ""
+msgstr "Arka Plan Rengi"
 
 #: header.php:25
 msgid "Skip to content"
-msgstr ""
+msgstr "İçeriğe atla"
 
 #: inc/blog-header.php:32
 msgid "Featured"
-msgstr ""
+msgstr "Öne Çıkan"
 
 #: inc/blog-header.php:57
 msgid "Highlights"
-msgstr ""
+msgstr "Vurgulananlar"
 
 #: inc/page-title.php:17
 msgid "search result"
-msgstr ""
+msgstr "arama sonucu"
 
 #: inc/page-title.php:19
 msgid "search results"
-msgstr ""
+msgstr "arama sonuçları"
 
 #: inc/page-title.php:24
 msgid "For the term"
-msgstr ""
+msgstr "Terim için"
 
 #: inc/page-title.php:26
 msgid "Please try another search:"
-msgstr ""
+msgstr "Lütfen başka bir arama deneyin:"
 
 #: inc/page-title.php:33
-msgid ""
-"The page you are trying to reach does not exist, or has been moved. Please "
-"use the menus or the search box to find what you are looking for."
-msgstr ""
+msgid "The page you are trying to reach does not exist, or has been moved. Please use the menus or the search box to find what you are looking for."
+msgstr "Erişmeye çalıştığınız sayfa mevcut değil veya taşınmış. Aradığınızı bulmak için menüleri veya arama kutusunu kullanın."
 
 #: inc/post-nav.php:12
 msgid "Next"
-msgstr ""
+msgstr "Sonraki"
 
 #: inc/post-nav.php:13
 msgid "Previous"
-msgstr ""
+msgstr "Önceki"
 
 #: inc/related-posts.php:7
 msgid "You may also like"
-msgstr ""
+msgstr "Bunları da beğenebilirsiniz"
 
 #: searchform.php:3
 msgid "To search type and hit enter"
-msgstr ""
+msgstr "Aramak için yazın ve enter tuşuna basın"
 
 #: single.php:22
 msgid "by"
-msgstr ""
+msgstr "yazan"
 
 #: single.php:45
 msgid "Pages:"
-msgstr ""
+msgstr "Sayfalar:"
 
 #: single.php:53
 msgid "Tags:"
-msgstr ""
+msgstr "Etiketler:"
